@@ -1,1 +1,1 @@
-# siteHotel
+Este é um projeto de desenvolvimento do site de um hotel, criado para oferecer aos hóspedes uma experiência intuitiva e prática na hora de buscar informações, fazer reservas e conhecer os serviços oferecidos pelo hotel.
